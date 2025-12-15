@@ -23,7 +23,10 @@ This project is an ESP32-based IoT Ultrasonic Radar System that detects objects 
 - ThingSpeak IoT Platform
 
 ## Project Images
-(Add block diagram, circuit diagram, radar screen, ThingSpeak graphs, and hardware photos here)
+<img width="825" height="459" alt="BLOCK DIAGRAM" src="https://github.com/user-attachments/assets/bdd0a8cd-4ea3-4f25-87fd-c46497699fb0" />
+![Circuit Diagram](https://github.com/user-attachments/assets/3b169718-f143-41c7-83f3-a03499b33d1e)
+
+
 
 ## Authors
 - Hafiz Saad (Group Lead)
